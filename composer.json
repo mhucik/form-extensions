@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/form-extensions",
+    "name": "mhucik/sonata-form-extensions",
     "type": "symfony-bundle",
     "description": "Symfony form extensions",
     "keywords": [
